@@ -7,8 +7,9 @@
 📚 Leitora nas horas vagas! <br><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaquintal&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicaquintal&langs_count=7&theme=rose_pine"/>
+  <img align="right" height="260" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,7 +18,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" height="300" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
+
 </div>
 
 </div>
