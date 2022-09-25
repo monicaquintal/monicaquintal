@@ -7,8 +7,8 @@
 📚 Leitora nas horas vagas! <br><br>
 
 <div align="center" style="display: inline_block">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicaquintal&langs_count=7&theme=rose_pine"/>
+  <img height="240em" width="500" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="240em" width=240" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicaquintal&langs_count=7&theme=rose_pine"/>
   <img align="right" height="260" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 </div>
 
@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/monicaquintal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-  ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
