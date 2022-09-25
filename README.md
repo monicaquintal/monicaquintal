@@ -6,7 +6,7 @@
 🐱 Médica Veterinária (FMVZ-USP); <br>
 📚 Leitora nas horas vagas! <br><br>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicaquintal&langs_count=7&theme=rose_pine"/>
   <img align="right" height="260" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
