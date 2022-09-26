@@ -1,6 +1,6 @@
 ### Olá, eu sou a Mônica! 🙋🏻‍♀️
 
-🗨 Aspirante a dev!; <br>
+🗨 Aspirante a dev; <br>
 📕 Cursando o 1º módulo de Desenvolvimento de Sistemas - ETEC; <br>
 🤓 Atualmente estou aprendendo Java, HTML e CSS; <br>
 🐱 Médica Veterinária (FMVZ-USP); <br>
