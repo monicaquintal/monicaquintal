@@ -1,11 +1,12 @@
 ### Olá, eu sou a Mônica! 🙋🏻‍♀️
 
+<img align="right" height="160" style="border-radius:200px;" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/wfh_diapassando.gif">
 🗨 Aspirante a dev; <br>
 📕 Cursando o 1º módulo de Desenvolvimento de Sistemas - ETEC; <br>
 🤓 Atualmente estou aprendendo Java, HTML e CSS; <br>
 🐱 Médica Veterinária (FMVZ-USP); <br>
 📚 Leitora nas horas vagas; <br>
-💭 <em>"Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas."</em> - Alvo Dumbledore.<br><br>
+💭 <em>"Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas."</em> <br>- Alvo Dumbledore.<br><br>
 
 <div align="center" style="display: inline_block">
   <img height="240em" width="500" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
