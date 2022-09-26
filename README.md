@@ -3,8 +3,9 @@
 <img align="right" height="160" style="border-radius:200px;" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/wfh_diapassando.gif">
 🗨 Aspirante a dev; <br>
 📕 Cursando o 1º módulo de Desenvolvimento de Sistemas - ETEC; <br>
-🤓 Atualmente estou aprendendo Java, HTML e CSS; <br>
+🤓 Atualmente estou aprendendo Java, HTML, CSS e JavaScript; <br>
 🐱 Médica Veterinária (FMVZ-USP); <br>
+💻 Servidora pública; <br>
 📚 Leitora nas horas vagas; <br>
 💭 <em>"Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas."</em> <br>- Alvo Dumbledore.<br><br>
 
