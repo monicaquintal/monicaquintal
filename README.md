@@ -4,7 +4,8 @@
 📕 Cursando o 1º módulo de Desenvolvimento de Sistemas - ETEC; <br>
 🤓 Atualmente estou aprendendo Java, HTML e CSS; <br>
 🐱 Médica Veterinária (FMVZ-USP); <br>
-📚 Leitora nas horas vagas! <br><br>
+📚 Leitora nas horas vagas; <br>
+💭 <em>"Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas."</em> - Alvo Dumbledore.<br><br>
 
 <div align="center" style="display: inline_block">
   <img height="240em" width="500" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
