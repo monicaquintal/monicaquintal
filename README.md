@@ -1,4 +1,4 @@
-### Olá, eu sou a Mônica! 🙋🏻‍♀️
+### Olá, eu sou a Mônica! 
 
 <img align="right" height="160" style="border-radius:200px;" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/wfh_diapassando.gif">
 🗨 Aspirante a dev; <br>
