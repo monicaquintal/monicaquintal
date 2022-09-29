@@ -2,6 +2,7 @@
 
 <img align="right" height="160" style="border-radius:200px;" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/wfh_diapassando.gif">
 🗨 Aspirante a dev; <br>
+📔 Futura estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
 📕 Cursando o 1º módulo de Desenvolvimento de Sistemas - ETEC; <br>
 🤓 Atualmente estou aprendendo Java, HTML, CSS e JavaScript; <br>
 🐱 Médica Veterinária (FMVZ-USP); <br>
