@@ -1,6 +1,6 @@
 ### Olá, eu sou a Mônica! 
 
-<a href="https://github.com/monicaquintal">
+
 <img align="right" height="160" style="border-radius:200px;" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/wfh_diapassando.gif">
 🗨 Aspirante a dev; <br>
 📝 Futura estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
@@ -11,6 +11,7 @@
 📚 Leitora nas horas vagas; <br>
 💭 <em>"Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas."</em> <br>- Alvo Dumbledore.<br><br>
 
+<a href="https://github.com/monicaquintal">
 <div align="center" style="display: inline_block">
   <img height="240em" width="500" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="240em" width=240" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicaquintal&langs_count=7&theme=panda"/>
