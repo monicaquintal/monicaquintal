@@ -1,5 +1,6 @@
 ### Olá, eu sou a Mônica! 
 
+<a href="https://github.com/monicaquintal">
 <img align="right" height="160" style="border-radius:200px;" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/wfh_diapassando.gif">
 🗨 Aspirante a dev; <br>
 📝 Futura estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
@@ -36,7 +37,7 @@
 </div>
   
 ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
-
+</a>
 
 <!--
 **monicaquintal/monicaquintal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
