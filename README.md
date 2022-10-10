@@ -6,7 +6,13 @@
   height: 159cm; 
   display: girl; 
   color: #F5DEB3;
+}
+
+.curso1 {
   background: url(../ETEC/DS/modulo1);
+}
+
+.curso2 {
   background: url(../FIAP/ADS/2023);
 }
 ```
