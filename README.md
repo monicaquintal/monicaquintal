@@ -9,11 +9,11 @@
 }
 
 .curso1 {
-  background: url(../ETEC/DS/modulo1);
+  background: url(../ETEC/DS/modulo1.jpg);
 }
 
 .curso2 {
-  background: url(../FIAP/ADS/2023);
+  background: url(../FIAP/ADS/2023.jpg);
 }
 ```
 <div>
