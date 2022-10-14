@@ -27,11 +27,9 @@
 ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
 </a>
   
+## E quem sou eu?
 <div>
-<img align="right" height="240" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
-</div
-  
-<div>
+<img align="right" height="235" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 🗨 Aspirante a dev; <br>
 📝 Futura estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
 📔 Cursando o 1º módulo de Desenvolvimento de Sistemas - ETEC; <br>
@@ -39,11 +37,11 @@
 🩺 Médica Veterinária (FMVZ-USP); <br>
 💻 Servidora pública; <br>
 📚 Leitora nas horas vagas; <br>
-💭 <em>"Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas."</em> <br>- Alvo Dumbledore.<br><br>
+💭 <em>"Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas."</em> <br>- Alvo Dumbledore.<br>
 </div>
   
-<div style="display: inline_block"><br>
-<h3>Tecnologias que estou estudando:</h3> 
+## Tecnologias que estou estudando:
+<div style="display: inline_block">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -51,7 +49,8 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-<h3>Contato:</h3>
+## Contato:
+<div style="display: inline_block">
 <a href="https://instagram.com/monicazoom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "monica.zoom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/monicaquintal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
