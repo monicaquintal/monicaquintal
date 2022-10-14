@@ -29,7 +29,7 @@
   
 ## E quem sou eu?
 <div>
-<img align="right" height="235" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
+<img align="right" height="240" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 🗨 Aspirante a dev; <br>
 📝 Futura estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
 📔 Cursando o 1º módulo de Desenvolvimento de Sistemas - ETEC; <br>
@@ -37,7 +37,7 @@
 🩺 Médica Veterinária (FMVZ-USP); <br>
 💻 Servidora pública; <br>
 📚 Leitora nas horas vagas; <br>
-💭 <em>"Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas."</em> <br>- Alvo Dumbledore.<br>
+💭 "Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas." - <em>Alvo Dumbledore.</em><br>
 </div>
   
 ## Tecnologias que estou estudando:
