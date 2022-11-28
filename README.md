@@ -1,6 +1,6 @@
 ### Olá, eu sou a Mônica! 
 
-```css
+~~~css
 #monicazoom { 
   position: Praia Grande, São Paulo, Brasil; 
   height: 159cm; 
@@ -15,7 +15,7 @@
 .curso2 {
   background: url(../FIAP/ADS/2023.jpg);
 }
-```
+~~~
 
 <div>
 <a href="https://github.com/monicaquintal">
@@ -37,7 +37,8 @@
 🩺 Médica Veterinária (FMVZ-USP); <br>
 💻 Servidora pública; <br>
 📚 Leitora nas horas vagas; <br>
-💭 "Não são as nossas habilidades que revelam quem realmente somos. São as nossas escolhas." - <em>Alvo Dumbledore.</em><br>
+💭 "It’s no use going back to yesterday, because I was a different person then." - <em>Lewis Carroll.</em>
+<br>
 </div>
   
 ## Tecnologias que estou estudando:
