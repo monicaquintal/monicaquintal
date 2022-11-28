@@ -28,7 +28,7 @@
 </a>
   
 ## E quem sou eu?
-<img align="right" height="240" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
+<img align="right" height="220" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 <div>
 🗨 Aspirante a dev; <br>
 📝 Futura estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
