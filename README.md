@@ -32,7 +32,7 @@
 <div>
 🗨 Aspirante a dev; <br>
 📝 Futura estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
-📔 Cursando o 1º módulo de Desenvolvimento de Sistemas - ETEC; <br>
+📔 Cursando o 2º módulo de Desenvolvimento de Sistemas - ETEC; <br>
 🤓 Atualmente estou aprendendo Java, HTML, CSS e JavaScript; <br>
 🩺 Médica Veterinária (FMVZ-USP); <br>
 💻 Servidora pública; <br>
