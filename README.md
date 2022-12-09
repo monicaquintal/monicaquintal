@@ -9,7 +9,7 @@
 }
 
 .curso1 {
-  background: url(../ETEC/DS/modulo1.jpg);
+  background: url(../ETEC/DS/modulo2.jpg);
 }
 
 .curso2 {
