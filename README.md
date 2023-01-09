@@ -17,6 +17,7 @@
 }
 ~~~
 
+<!--
 <div>
 <a href="https://github.com/monicaquintal">
 <div align="center" style="display: inline_block">
@@ -26,7 +27,8 @@
 
 ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
 </a>
-  
+-->
+
 ## E quem sou eu?
 <img align="right" height="220" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 <div>
