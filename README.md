@@ -55,6 +55,8 @@
 <a href="https://codepen.io/monicazoom"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" /></a>
 </div>
 
+<br>
+
 <div>
 <a href="https://github.com/monicaquintal">
 <div align="center" style="display: inline_block">
