@@ -17,11 +17,6 @@
 }
 ~~~
 
-  <!--
-![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
-</a>
--->
-
 ## E quem sou eu?
 <img align="right" height="220" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 <div>
@@ -63,6 +58,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaquintal&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
+</a>
 
 
 <!--
