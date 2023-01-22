@@ -18,7 +18,7 @@
 ~~~
 
 ## E quem sou eu?
-<img align="right" height="220" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
+<img align="right" height="200" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 <div>
 📝 Estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
 📔 Cursando o 2º módulo de Desenvolvimento de Sistemas - ETEC; <br>
