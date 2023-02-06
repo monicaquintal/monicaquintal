@@ -13,16 +13,16 @@
 }
 
 .curso2 {
-  background: url(../FIAP/ADS/2023.jpg);
+  background: url(../FIAP/ADS/modulo1.jpg);
 }
 ~~~
 
 ## E quem sou eu?
 <img align="right" height="200" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 <div>
-📝 Estudante de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
-📔 Cursando o 2º módulo de Desenvolvimento de Sistemas - ETEC; <br>
-🤓 Atualmente estou aprendendo PHP, HTML, CSS, JavaScript; <br>
+📝 Cursando o 1º módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
+📔 Cursando o 2º módulo de Desenvolvimento de Sistemas - ETEC (2022/2023); <br>
+🤓 Atualmente estou aprendendo PHP, MySQL, HTML, CSS, JavaScript; <br>
 🩺 Médica Veterinária (FMVZ-USP); <br>
 💻 Servidora pública; <br>
 📚 Leitora nas horas vagas; <br>
@@ -33,11 +33,11 @@
 ## Tecnologias que estou estudando:
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 ## Contato:
