@@ -48,6 +48,133 @@
 
 <br>
 
+## Projetos:
+<div align="center">
+  <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="450px" />
+  <table height="450px">
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/fintech" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=fintech&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/layout-mobile-apeperia" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=layout-mobile-apeperia&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/estudando-flexbox-alurinha" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=estudando-flexbox-alurinha&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/estudandoMySQL" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=estudandoMySQL&theme=dracula&hide_border=true">
+    </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/devlinks" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=devlinks&theme=dracula&hide_border=true">
+    </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/estudandoPHP-orientacao-a-objetos" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=estudandoPHP-orientacao-a-objetos&theme=dracula&hide_border=true">
+    </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/estudandoPHP" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=estudandoPHP&theme=dracula&hide_border=true">
+    </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+       <a href="https://github.com/monicaquintal/app-help-desk" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=app-help-desk&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/NLW-habits" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=NLW-habits&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/game-mata-mosquito" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=game-mata-mosquito&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/estudandoJavaScript" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=estudandoJavaScript&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/nivelamentoLogicaDeProgramacao" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=nivelamentoLogicaDeProgramacao&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=formacaoInicianteEmProgramacao&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/appCalculadora" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=appCalculadora&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/beautysalon" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=beautysalon&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/spotify-clone" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=spotify-clone&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/monicaquintal/NLW-copa" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=NLW-copa&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+  </table>
+ </div>
+<br>
+
 <div>
 <a href="https://github.com/monicaquintal">
 <div align="center" style="display: inline_block">
@@ -58,8 +185,8 @@
 
 ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
 </a>
-
-
+  
+  
 <!--
 **monicaquintal/monicaquintal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
