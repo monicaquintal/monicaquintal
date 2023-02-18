@@ -1,11 +1,13 @@
 ### Olá, eu sou a Mônica! 
 
+<img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" 
+padding="10px" style="vertical-align:middle;margin-left:10px" height = "290" width="450px" align="right" alt="JavaScript">
+
 ~~~css
 #monicazoom { 
   position: Praia Grande, São Paulo, Brasil; 
   height: 159cm; 
   display: girl; 
-  color: #F5DEB3;
 }
 
 .curso1 {
