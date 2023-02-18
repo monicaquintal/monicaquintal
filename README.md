@@ -1,7 +1,7 @@
 ### Olá, eu sou a Mônica! 
 
 <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" 
-padding="10px" style="vertical-align:middle;margin-left:10px" height = "270" width="450px" align="right" alt="JavaScript">
+padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" width="450px" align="right" alt="JavaScript">
 
 ~~~css
 #monicazoom { 
