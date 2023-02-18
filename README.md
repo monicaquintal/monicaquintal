@@ -50,8 +50,8 @@
 
 ## Projetos:
 <div align="center">
-  <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="450px" />
-  <table height="450px">
+  <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="400px" />
+  <table height="400px">
     <tr>
       <td>
       <a href="https://github.com/monicaquintal/fintech" target="_blank">
