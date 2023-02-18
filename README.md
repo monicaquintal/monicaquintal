@@ -1,7 +1,7 @@
 ### Olá, eu sou a Mônica! 
 
 <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" 
-padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" width="450px" align="right" alt="JavaScript">
+padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" width="400px" align="right" alt="JavaScript">
 
 ~~~css
 #monicazoom { 
@@ -47,8 +47,6 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
   <a href="https://instagram.com/monicazoom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "monica.zoom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<br>
 
 ## Projetos:
 <div align="center">
