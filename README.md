@@ -54,6 +54,13 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
   <table height="400px">
     <tr>
       <td>
+      <a href="https://github.com/monicaquintal/disciplina_DS_II_ETEC" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=disciplina_DS_II_ETEC&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
       <a href="https://github.com/monicaquintal/fintech" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=fintech&theme=dracula&hide_border=true">
       </a>
