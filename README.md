@@ -50,8 +50,8 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
 
 ## Projetos:
 <div align="center">
-  <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="400px" />
-  <table height="400px">
+  <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="350px" />
+  <table height="350px">
     <tr>
       <td>
       <a href="https://github.com/monicaquintal/disciplina_DS_II_ETEC" target="_blank">
