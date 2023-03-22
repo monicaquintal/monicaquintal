@@ -10,13 +10,16 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
   display: girl; 
 }
 
+
 .curso1 {
-  background: url(../ETEC/DS/modulo2.jpg);
+  background: url(../FIAP/ADS/modulo1.jpg);
 }
 
 .curso2 {
-  background: url(../FIAP/ADS/modulo1.jpg);
+  background: url(../ETEC/DS/modulo2.jpg);
 }
+
+
 ~~~
 
 ## E quem sou eu?
@@ -54,6 +57,13 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
   <table height="350px">
     <tr>
       <td>
+      <a href="https://github.com/monicaquintal/fintech" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=fintech&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
       <a href="https://github.com/monicaquintal/disciplina_DS_II_ETEC" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=disciplina_DS_II_ETEC&theme=dracula&hide_border=true">
       </a>
@@ -63,13 +73,6 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
       <td>
       <a href="https://github.com/monicaquintal/disciplina_TI_II_ETEC" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=disciplina_TI_II_ETEC&theme=dracula&hide_border=true">
-      </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <a href="https://github.com/monicaquintal/fintech" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=fintech&theme=dracula&hide_border=true">
       </a>
       </td>
     </tr>
