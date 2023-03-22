@@ -10,7 +10,6 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
   display: girl; 
 }
 
-
 .curso1 {
   background: url(../FIAP/ADS/modulo1.jpg);
 }
