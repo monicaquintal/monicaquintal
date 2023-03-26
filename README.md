@@ -38,9 +38,11 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
 <div style="display: inline_block">
   <a href="https://github.com/monicaquintal/estudandoPHP" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
   <a href="https://github.com/monicaquintal/estudandoMySQL" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+    <a href="https://github.com/monicaquintal/fintech" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
   <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
   <a href="https://github.com/monicaquintal/estudandoJavaScript" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+    <a href="#" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
 </div>
 
 ## Contato:
