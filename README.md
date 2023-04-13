@@ -31,7 +31,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
 💻 Servidora pública; <br>
 📚 Leitora nas horas vagas; <br>
 💭 <em>"It’s no use going back to yesterday, because I was a different person then."</em> - Lewis Carroll.
-<br>
+<br> 
 </div>
   
 ## Tecnologias que estou estudando:
