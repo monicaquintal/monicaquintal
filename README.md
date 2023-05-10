@@ -24,12 +24,11 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
 ## E quem sou eu?
 <img align="right" height="200" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 <div>
-📝 Cursando o 1º módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024); <br>
-📔 Cursando o 2º módulo de Desenvolvimento de Sistemas - ETEC (2022/2023); <br>
-🤓 Atualmente estou aprendendo PHP, MySQL, HTML, CSS, JavaScript; <br>
-🩺 Médica Veterinária (FMVZ-USP); <br>
-💻 Servidora pública; <br>
-📚 Leitora nas horas vagas; <br>
+📝 Cursando o 1º módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
+📔 Cursando o 2º módulo de Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
+🩺 Médica Veterinária (FMVZ-USP).<br>
+💻 Servidora pública.<br>
+📚 Leitora nas horas vagas.<br>
 💭 <em>"It’s no use going back to yesterday, because I was a different person then."</em> - Lewis Carroll.
 <br> 
 </div>
