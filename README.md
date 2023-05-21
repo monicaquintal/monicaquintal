@@ -71,6 +71,13 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
     </tr>
     <tr>
       <td>
+      <a href="https://github.com/monicaquintal/nlw-spacetime" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=nlw-spacetime&theme=dracula&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
       <a href="https://github.com/monicaquintal/disciplina_TI_II_ETEC" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monicaquintal&repo=disciplina_TI_II_ETEC&theme=dracula&hide_border=true">
       </a>
