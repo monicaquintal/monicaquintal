@@ -3,6 +3,7 @@
 <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" 
 padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" width="400px" align="right" alt="JavaScript">
 
+<!--
 ~~~css
 #monicazoom { 
   position: Praia Grande, São Paulo, Brasil; 
@@ -17,23 +18,22 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
 .curso2 {
   background: url(../ETEC/DS/modulo2.jpg);
 }
-
-
 ~~~
+-->
 
-## E quem sou eu?
-<img align="right" height="200" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
+## Sobre mim
 <div>
-📝 Cursando o 1º módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
-📔 Cursando o 2º módulo de Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
-🩺 Médica Veterinária (FMVZ-USP).<br>
+📝 Cursando o 2° módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
+📔 Cursando o 3° módulo de Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
 💻 Servidora pública.<br>
+🩺 Médica Veterinária (FMVZ-USP).<br>
 📚 Leitora nas horas vagas.<br>
 💭 <em>"It’s no use going back to yesterday, because I was a different person then."</em> - Lewis Carroll.
 <br> 
 </div>
   
 ## Tecnologias que estou estudando:
+<img align="right" height="200" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
 <div style="display: inline_block">
   <a href="https://github.com/monicaquintal/estudandoPHP" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
   <a href="https://github.com/monicaquintal/estudandoMySQL" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
