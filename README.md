@@ -1,7 +1,56 @@
-### Olá, eu sou a Mônica! 
+# Olá, eu sou a Mônica! 
 
-<img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" 
-padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" width="400px" align="right" alt="JavaScript">
+  <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" height = "265" width="400px" align="right">
+
+## Sobre mim
+
+  📝 Cursando o 2° módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
+  📔 Cursando o 3° módulo de Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
+  💻 Servidora pública.<br>
+  🩺 Médica Veterinária (FMVZ-USP).<br>
+  📚 Leitora nas horas vagas.<br>
+  💭 *“Encontrarei um caminho, ou criarei um próprio.”*
+  <br> 
+  
+## Tecnologias
+  <img align="right" height="200" src="https://i.imgur.com/Zh7Mwgq.gif">
+
+### Front-end:
+
+  <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
+  <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
+  <a href="https://github.com/monicaquintal/estudandoJavaScript" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://github.com/monicaquintal/estudandoBootstrap" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></a>
+
+### Back-end:
+
+  <a href="https://github.com/monicaquintal/estudandoPHP" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
+  <a href="https://github.com/monicaquintal/estudandoMySQL" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://github.com/monicaquintal/fintech" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+
+### Estudando no momento:
+
+  <a href="https://github.com/monicaquintal/estudandoReact" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+
+## Contato
+
+  <a href="https://www.linkedin.com/in/monicaquintal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/monicazoom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "monica.zoom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/monicaquintal">
+    <!--
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    -->
+    <img height="180em" src='https://github-readme-streak-stats.herokuapp.com?user=monicaquintal&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaquintal&layout=compact&langs_count=7&hide=scss,less,stylus&theme=dracula"/>  
+
+  ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
+  </a>
+</div>
 
 <!--
 ~~~css
@@ -21,36 +70,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
 ~~~
 -->
 
-## Sobre mim
-<div>
-📝 Cursando o 2° módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
-📔 Cursando o 3° módulo de Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
-💻 Servidora pública.<br>
-🩺 Médica Veterinária (FMVZ-USP).<br>
-📚 Leitora nas horas vagas.<br>
-💭 <em>"It’s no use going back to yesterday, because I was a different person then."</em> - Lewis Carroll.
-<br> 
-</div>
-  
-## Tecnologias que estou estudando:
-<img align="right" height="200" style="border-radius:70px;" src="https://i.imgur.com/Zh7Mwgq.gif">
-<div style="display: inline_block">
-  <a href="https://github.com/monicaquintal/estudandoPHP" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
-  <a href="https://github.com/monicaquintal/estudandoMySQL" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-    <a href="https://github.com/monicaquintal/fintech" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
-  <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
-  <a href="https://github.com/monicaquintal/estudandoJavaScript" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-    <a href="#" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-</div>
-
-## Contato:
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/monicaquintal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/monicazoom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "monica.zoom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
+<!--
 ## Projetos:
 <div align="center">
   <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="350px" />
@@ -197,23 +217,8 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" wid
     </tr>
   </table>
  </div>
-<br>
 
-<div>
-<a href="https://github.com/monicaquintal">
-<div align="center" style="display: inline_block">
-  <!--
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  -->
-  <img height="180em" src='https://github-readme-streak-stats.herokuapp.com?user=monicaquintal&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaquintal&layout=compact&langs_count=7&hide=scss,less,stylus&theme=dracula"/>  
-  
-</div>
-
-![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
-</a>
-  
-  
+-->
   
 <!--
 **monicaquintal/monicaquintal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
