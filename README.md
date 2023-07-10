@@ -20,10 +20,10 @@
   <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
   <a href="https://github.com/monicaquintal/estudandoJavaScript" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://github.com/monicaquintal/estudandoBootstrap" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></a>
-  
-### Back-end:
 
   <img align="right" height="200" src="https://i.imgur.com/Zh7Mwgq.gif">
+  
+### Back-end:
 
   <a href="https://github.com/monicaquintal/estudandoPHP" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
   <a href="https://github.com/monicaquintal/estudandoMySQL" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
