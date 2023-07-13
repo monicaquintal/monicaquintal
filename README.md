@@ -1,9 +1,7 @@
 # Olá, eu sou a Mônica! 
 
-  <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" height = "265" width="400px" align="right">
-
 ## Sobre mim
-
+<img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="350px" align="right">
   📝 Cursando o 2° módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
   📔 Cursando o 3° módulo de Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
   💻 Servidora pública.<br>
