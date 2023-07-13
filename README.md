@@ -12,7 +12,20 @@
   
 ## Tecnologias
 
-### Front-end:
+<img align="right" height="200" src="https://i.imgur.com/Zh7Mwgq.gif">
+
+<div align="center">
+
+Front-end | Back-end | Estudando no momento
+:---------:|:---------:|:----------------------:
+<a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a><a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a><a href="https://github.com/monicaquintal/estudandoJavaScript" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a><a href="https://github.com/monicaquintal/estudandoBootstrap" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></a> | <a href="https://github.com/monicaquintal/estudandoPHP" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a><a href="https://github.com/monicaquintal/estudandoMySQL" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a><a href="https://github.com/monicaquintal/fintech" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a><a href="https://github.com/monicaquintal/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> | <a href="https://github.com/monicaquintal/estudandoReact" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+
+</div>
+
+
+
+<!--
+Front-end:
 
   <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
   <a href="https://github.com/monicaquintal/formacaoInicianteEmProgramacao" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
@@ -31,15 +44,19 @@
 ### Estudando no momento:
 
   <a href="https://github.com/monicaquintal/estudandoReact" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+-->
+
 
 ## Contato
+
+<div align="center">
 
   <a href="https://www.linkedin.com/in/monicaquintal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/monicazoom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "monica.zoom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br><br>
 
-<div align="center">
+
   <a href="https://github.com/monicaquintal">
     <!--
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=monicaquintal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
