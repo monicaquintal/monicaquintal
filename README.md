@@ -7,12 +7,12 @@
   💻 Servidora pública.<br>
   🩺 Médica Veterinária (FMVZ-USP).<br>
   📚 Leitora nas horas vagas.<br>
-  💭 *“Encontrarei um caminho, ou criarei um próprio.”*
+  💭 <em>“Encontrarei um caminho, ou criarei um próprio.”</em>
   <br> 
   
 ## Tecnologias
 
-<img align="right" height="200" src="https://i.imgur.com/Zh7Mwgq.gif">
+<img align="right" height="160" src="https://i.imgur.com/Zh7Mwgq.gif">
 
 <div align="center">
 
