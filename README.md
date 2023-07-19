@@ -4,6 +4,7 @@
 <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="300px" align="right">
   📝 Cursando o 2° módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
   📔 Cursando o 3° módulo de Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
+  🎓 Programa Oracle Next Education F2 T4 Front-end (2023).<br>
   💻 Servidora pública.<br>
   🩺 Médica Veterinária (FMVZ-USP).<br>
   📚 Leitora nas horas vagas.<br>
