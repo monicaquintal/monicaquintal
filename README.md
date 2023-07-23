@@ -1,7 +1,7 @@
 # Olá, eu sou a Mônica! 
 
 ## Sobre mim
-<img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="300px" align="right">
+<img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="310px" align="right">
   📝 Cursando o 2° módulo de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
   📔 Cursando o 3° módulo de Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
   🎓 Programa Oracle Next Education F2 T4 Front-end (2023).<br>
@@ -13,7 +13,7 @@
   
 ## Tecnologias
 
-<img align="right" height="160" src="https://i.imgur.com/Zh7Mwgq.gif">
+<img align="right" height="170" src="https://i.imgur.com/Zh7Mwgq.gif">
 
 <div align="center">
 
