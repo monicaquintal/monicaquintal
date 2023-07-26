@@ -65,11 +65,12 @@ Front-end:
     <img height="180em" src='https://github-readme-streak-stats.herokuapp.com?user=monicaquintal&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaquintal&layout=compact&langs_count=7&hide=scss,less,stylus&theme=dracula"/>  
 
+<!--
   ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
   </a>
 </div>
 
-<!--
+
 ~~~css
 #monicazoom { 
   position: Praia Grande, São Paulo, Brasil; 
