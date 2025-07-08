@@ -2,7 +2,8 @@
 
 ## Sobre mim
 <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="310px" align="right">
-  📝 Cursando o 4° semestre de Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
+  📝 Guaduada em Análise e Desenvolvimento de Sistemas - FIAP (2023/2024). <br>
+  📕 Pós Graduada em Gestão de TI (2024).
   📔 Técnica em Desenvolvimento de Sistemas - ETEC (2022/2023). <br>
   🎓 Programa Oracle Next Education F2 T4 Front-end (2023).<br>
   💻 Servidora pública.<br>
